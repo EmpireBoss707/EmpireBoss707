@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmpireBoss707
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning full stack web dev
+- 👀 I’m interested in web and app development
+- 🌱 Am tech enthusiast and a front end web developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me empire.boss787@gmail.com
 
